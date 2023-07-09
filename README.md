@@ -20,6 +20,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikiyas999&show_icons=true&locale=en&layout=compact" alt="mikiyas999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikiyas999&show_icons=true&locale=en" alt="mikiyas999" /></p>
