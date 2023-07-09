@@ -1,4 +1,4 @@
-![Header](https://stackdiary.com/wp-content/uploads/2022/11/Next.js-Tutorial-for-Beginners-1024x560.png)
+
 
 <h1 align="center">Hi 👋, I'm Mikiyas Getachew</h1>
 <h3 align="center">A passionate full-stack developer</h3>
