@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikiyas Getachew</h1>
-<h3 align="center">A passionate full-stack developer and Futher Ai Engineer </h3>
+<h3 align="center">A passionate full-stack developer and React native Developer </h3>
 
 ## 👋 Hello! 
 Fullstack web developer with 2+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
